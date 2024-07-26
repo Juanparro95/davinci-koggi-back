@@ -1,4 +1,4 @@
-##CORRER EL PROYECTO
+# CORRER EL PROYECTO
 
 1. Clona el repositorio ``` git clone https://github.com/Juanparro95/davinci-koggi-back.git ```
 2. Ingresa a la carpeta davinci-koggi-back
